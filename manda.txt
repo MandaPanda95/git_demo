@@ -1,0 +1,6 @@
+Manda
+
+git status
+
+root@DESKTOP-BNT21BU:~/git_demo#
+root@DESKTOP-BNT21BU:~/git_demo#git status
